@@ -9,7 +9,7 @@ Web application built to perform basic arithmetic operations such as addition, s
 <li>CSS3 – modern UI styling (neumorphism style)</li>
 <li>JavaScript (ES6) – logic and functionality</li>
 </ul>
+
 ### Preview
 Here’s a screenshot of the app:
-
 ![Calculator Screenshot](https://github.com/SabriAya/javascript-projects/blob/main/calculator.png?raw=true)
